@@ -422,8 +422,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/diting/proprietary/vendor/etc/init/vendor.qti.camera.provider@2.7-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider@2.7-service_64.rc \
     vendor/xiaomi/diting/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/xiaomi/diting/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
-    vendor/xiaomi/diting/proprietary/vendor/etc/mdss_dsi_l12_36_02_0b_dsc_cmd_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_l12_36_02_0b_dsc_cmd_mi.xml \
-    vendor/xiaomi/diting/proprietary/vendor/etc/mdss_dsi_l12_42_02_0a_dsc_cmd_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_l12_42_02_0a_dsc_cmd_mi.xml \
     vendor/xiaomi/diting/proprietary/vendor/etc/sensors/config/lsm6dso_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/lsm6dso_0.json \
     vendor/xiaomi/diting/proprietary/vendor/etc/sensors/config/qmc6308_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/qmc6308_0.json \
     vendor/xiaomi/diting/proprietary/vendor/etc/sensors/config/qsh_camera.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/qsh_camera.json \
